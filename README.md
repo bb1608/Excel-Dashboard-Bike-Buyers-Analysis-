@@ -1,6 +1,6 @@
 # Excel-Dashboard-Bike-Buyers-Analysis-
 
-🚴 My First Excel Dashboard – Bike Buyers Analysis 🚴
+🚴 My Excel Dashboard – Bike Buyers Analysis 🚴
 Excited to share my first Excel-based dashboard, built using a dataset on bike buyers! 🎉
 This dashboard uncovers key factors influencing bike purchases, analyzing trends in:
 ✅ Income Levels 📊 – Do higher earners buy more bikes?
