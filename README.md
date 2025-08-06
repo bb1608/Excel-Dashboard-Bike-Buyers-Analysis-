@@ -25,3 +25,5 @@ Old
 This project was an incredible learning experience in data storytelling and visualization. Huge thanks to Alex Freberg for the inspiration! 🚀
 
 link: [https://lnkd.in/e42-S6eX](https://onedrive.live.com/personal/694b77ed14689f5b/_layouts/15/Doc.aspx?sourcedoc=%7B14689f5b-77ed-204b-8069-6c0000000000%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvcyFBbHVmYUJUdGQwdHBiRUI3NVJydHZmRWhYNkE_ZT1FZjZPTkk&slrid=e501b9a1-6095-d000-a314-976492373933&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy82OTRiNzdlZDE0Njg5ZjViL1FWdWZhQlR0ZDBzZ2dHbHNBQUFBQUFBQVFIdmxHdTI5OFNGZm9BP3J0aW1lPURGaWVvYTNVM1Vn&CID=01f5be36-44d3-4a5c-8aff-b1fbad8c2e93&_SRM=0:G:42)
+Scrrenshort : <img width="1467" height="713" alt="image" src="https://github.com/user-attachments/assets/c5838f77-8eef-4039-9ea0-4bd0ea2d47bc" />
+
